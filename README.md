@@ -19,7 +19,9 @@ Ce dépôt contient les fichiers Terraform nécessaires pour déployer une infra
 - [Installation d'Azure CLI](https://docs.microsoft.com/fr-fr/cli/azure/install-azure-cli-linux?pivots=apt)
 
 ### Connexion à Azure
-`az login`
+```bash
+az login
+```
 
 ### Récupération du Subscription ID
 
