@@ -1,4 +1,4 @@
-# TP 3 - Infrastructure As Code avec Terraform
+# 🚀 Infrastructure As Code avec Terraform 🚀
 
 ## Description
 Ce dépôt contient les fichiers Terraform nécessaires pour déployer une infrastructure sur Azure, répondant aux besoins du client Move2Cloud.
